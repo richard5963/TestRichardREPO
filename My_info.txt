@@ -1,3 +1,4 @@
 Name : Richard Simoes
 Place : Betul
+Status : Single
 
