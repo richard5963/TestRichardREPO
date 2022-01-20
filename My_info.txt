@@ -1,5 +1,5 @@
 Name : Richard Simoes
 Place : Betul
 Status : Single
-Age : 23
+Age : 30
 Nationality : Indian
