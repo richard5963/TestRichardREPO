@@ -1,3 +1,4 @@
 hello!
 Welcome Richard to Git
-This is a test file in main edited by jack!
+This is a test file in main edited by jack and rock!
+
